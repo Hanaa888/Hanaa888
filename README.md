@@ -35,5 +35,4 @@ I am a passionate **Cloud & DevOps Engineer** with hands-on experience in design
 * **LinkedIn:** [linkedin.com/in/hanaa-abd-el-reheem-b60231235](https://linkedin.com/in/hanaa-abd-el-reheem-b60231235)
 * **Email:** hanaaabdelreheem67@gmail.com
 * **Location:** Egypt (Available for Remote & Hybrid roles)
-- ⚡ Fun fact: ...
--->
+
