@@ -19,9 +19,9 @@ I am a passionate **Cloud & DevOps Engineer** with hands-on experience in design
 | **Cloud Platforms** | AWS (EC2, RDS, S3, Lambda, Route 53), Huawei Cloud |
 | **DevOps & CI/CD** | Docker, Kubernetes (Helm), Jenkins |
 | **Infrastructure as Code** | Terraform, Ansible |
-| **Operating Systems** | Linux (RHCSA Certified), Bash Scripting |
+| **Operating Systems** | Linux (RHCSA Certified),
 | **Networking** | CCNA, Windows Server |
-| **Backend & DB** | Python (Flask, Django), MySQL |
+| **programming & Scripting** | Python, Bash |
 
 ---
 
